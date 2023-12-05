@@ -134,8 +134,7 @@ public class HomeM extends JFrame implements ActionListener{
 //        DataTable.getColumnModel().getColumn(4).setMinWidth(140);
 //        DataTable.getColumnModel().getColumn(5).setMinWidth(150);
 //        DataTable.getColumnModel().getColumn(6).setMinWidth(90);
-//       
-
+//
         DataTable.getTableHeader().setReorderingAllowed(false);
         Scroll.setBounds(50, 130, 1400, 720);
         add(Scroll);
